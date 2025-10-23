@@ -1,0 +1,9 @@
+Incident summary generated: 2025-10-23T14:39:53.951444Z
+
+Top flows:
+
+Top DNS queries:
+
+Enrichment sample:
+
+Assessment: Review top flows and DNS hits; isolate suspicious hosts; scan; block IPs/domains if malicious.
